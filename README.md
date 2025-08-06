@@ -126,10 +126,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FontAwesome](https://fontawesome.com/)
 - [Poppins Font](https://fonts.google.com/specimen/Poppins)
 - [Chart.js](https://www.chartjs.org/)
----
-
-- **Discussions:** Start or join a discussion on [GitHub Discussions](https://github.com/yourusername/sportsmeet-manager/discussions).
-- **Email:** support@sportsmeetmanager.com
 
 ---
 
